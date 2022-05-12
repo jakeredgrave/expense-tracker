@@ -126,12 +126,12 @@ input[type="number"] {
 .expense_table_header {
   background-color: lightseagreen;
   padding: 1em;
-  width: 150px;
+  width: 300px;
   border-radius: 10px;
 }
 .expense_table_cell {
   padding: 1em;
-  width: 150px;
+  width: 300px;
   text-align: center;
   background-color: lightgreen;
   border-radius: 10px;
